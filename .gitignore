@@ -1,3 +1,4 @@
-.~*
-tanti*.py
-tanti*.odt
+*.docx#
+*.xlsx#
+tanti-data.py
+tanti-test.odt
